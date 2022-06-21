@@ -10,7 +10,7 @@ Contiene la siguiente información:
 2. *Versión*
 3. *Información del autor*
 
-### Ejemplo de código
+*Ejemplo de código*
 
 Este es un ejemplo de código:
 
